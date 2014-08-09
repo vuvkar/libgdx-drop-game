@@ -2,9 +2,10 @@ package com.badlogic.drop.android;
 
 import android.os.Bundle;
 
+import com.badlogic.drop.Drop;
+import com.badlogic.drop.GameScreen;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.badlogic.drop.Drop;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
